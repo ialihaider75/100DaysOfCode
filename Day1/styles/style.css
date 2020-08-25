@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .board {
     display: flexbox;
     height: 300px;
@@ -9,8 +14,6 @@
 .piece {
     height: 100px;
     width: 100px;
-    background-color: blue;
-    display: inline-block;
     margin: 0;
     padding: 0;
 }
