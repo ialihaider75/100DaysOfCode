@@ -1,0 +1,16 @@
+.board {
+    display: flexbox;
+    height: 300px;
+    width: 400px;
+    margin: 0;
+    padding: 0;
+}
+
+.piece {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
