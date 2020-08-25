@@ -50,6 +50,8 @@ objectsArray = [{
 
 addObjects = [];
 selectedObjects = [];
+wonObjects = [];
+score = 0;
 
 function shuffle(array) {
     array.sort(() => Math.random() - 0.5);
@@ -82,10 +84,11 @@ function flipPiece() {
 }
 
 function checkMatch() {
-    if (addObjects[0] === addObjects[1]) {
+    console.log(addObjects[0]);
+    console.log(addObjects[1]);
+    if (addObjects[0].name === addObjects[1].name) {
         alert("You found a match");
-        document.getElementById(selectedObjects[0]).setAttribute("src", "images/selected.png");
-        document.getElementById(selectedObjects[1]).setAttribute("src", "images/selected.png");
+        runSuccessCase(selectedObjects[0], selectedObjects[1]);
     } else {
         alert("No match");
         document.getElementById(selectedObjects[0]).setAttribute("src", "images/blank.png");
@@ -93,4 +96,19 @@ function checkMatch() {
     }
     selectedObjects = [];
     addObjects = [];
+    document.querySelector(".score").innerHTML = score;
+    if (wonObjects.length === objectsArray.length / 2) {
+        document.querySelector(".winFlag").innerHTML = "Congratulation! You have won the game";
+    }
+}
+
+function runSuccessCase(object1, object2) {
+    wonObjects.push(object1);
+    score += 5;
+    document.getElementById(object1).style.transform = "rotatey(" + 0 + "deg)";
+    document.getElementById(object2).style.transform = "rotatey(" + 0 + "deg)";
+    document.getElementById(object1).setAttribute("src", "images/selected.png");
+    document.getElementById(object2).setAttribute("src", "images/selected.png");
+    document.getElementById(object1).removeEventListener("click", flipPiece);
+    document.getElementById(object2).removeEventListener("click", flipPiece);
 }
