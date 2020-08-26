@@ -7,4 +7,7 @@
 
 <br/>
 
+## Day 2 (26 August,2020) 
+<b>Today's Progress:</b> Practiced several excercises of 'Javascript basics' on freeCodeCamp.
 
+<b>Thoughts:</b> I have learned about the basic datatypes, operators, and arithmetic operations in javascript.
