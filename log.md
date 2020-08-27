@@ -11,3 +11,9 @@
 <b>Today's Progress:</b> Practiced several excercises of 'Javascript basics' on freeCodeCamp.
 
 <b>Thoughts:</b> I have learned about the basic datatypes, operators, and arithmetic operations in javascript.
+
+
+## Day 3 (27 August,2020) 
+<b>Today's Progress:</b> Practiced more excercises of 'Javascript basics' on freeCodeCamp.
+
+<b>Thoughts:</b> I have learned about the arrays, array operations, and basic array functions of javascript.
