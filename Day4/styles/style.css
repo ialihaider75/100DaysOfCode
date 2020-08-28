@@ -1,0 +1,39 @@
+.container {
+    height: 100vh;
+    width: 100%;
+}
+
+.calculator {
+    border: 1px solid grey;
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.screen input {
+    width: 100%;
+    box-sizing: border-box;
+    padding-top: 60px;
+    font-size: 30px;
+    text-align: right;
+}
+
+.btn-panel {
+    box-sizing: border-box;
+    background-color: #555658;
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    height: 58px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 4.2px;
+    box-sizing: border-box;
+    border: 1px solid lightblue;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
