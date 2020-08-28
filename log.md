@@ -17,3 +17,8 @@
 <b>Today's Progress:</b> Practiced more excercises of 'Javascript basics' on freeCodeCamp.
 
 <b>Thoughts:</b> I have learned about the arrays, array operations, and basic array functions of javascript.
+
+## Day 4 (28 August,2020)
+<b>Today's Progess: </b> Started to build up a simple calculator using my previous learnt knowledge of javascript
+
+<b>Thoughts:</b> Feel a little bit down, have some problems in building calculator, and realizes that even making a simple calculator isn't simple enough :stuck_out_tongue_winking_eye:
