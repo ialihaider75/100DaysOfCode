@@ -24,5 +24,5 @@
 <b>Thoughts:</b> Feel a little bit down, have some problems in building calculator, and realizes that even making a simple calculator isn't simple enough :stuck_out_tongue_winking_eye:
 
 ## Day 5 (29 August,2020)
-<b>Today's Progress</b> Completed the simple calculator started to build yesterday :simple_smile:
+<b>Today's Progress</b> Completed the simple calculator started to build yesterday :blush:
 <b>Thoughts:</b> I actually want to implement calculator in a different style means user enter number and press any operator and then number and goes on until user press equal button and calculator shows the final results on the screen. And during the implementation of this, I have felt difficulty in creating logic and get furstrated doing this going to give up but the #100DaysOfCode challenge and Allah almighty gave me motivation and I be able to do this. All thanks to Allah Almighty. :simple_smile: :heart:
