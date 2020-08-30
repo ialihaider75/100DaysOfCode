@@ -26,3 +26,8 @@
 <b>Today's Progress</b> Completed the simple calculator started to build yesterday :blush:
 
 <b>Thoughts:</b> I actually want to implement calculator in a different style means user enter number and press any operator and then number and goes on until user press equal button and calculator shows the final results on the screen. And during the implementation of this, I have felt difficulty in creating logic and get furstrated doing this going to give up but the #100DaysOfCode challenge and Allah almighty gave me motivation and I be able to do this. All thanks to Allah Almighty. :kissing_heart: :heart:
+
+## Day 6 (30 August,2020) 
+<b>Today's Progress:</b> Practiced more excercises of 'Javascript basics' on freeCodeCamp.
+
+<b>Thoughts:</b> I have learned about the arrays, array operations, and basic queue implementation using arrays in javascript.
