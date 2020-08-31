@@ -108,3 +108,97 @@ function testLessOrEqual(val) {
 }
 
 console.log("The return value is " + testLessOrEqual(10));
+
+// the logical and operator &&
+function testLogicalAnd(val) {
+    // Only change code below this line
+
+    if (val <= 50 && val >= 25) {
+
+        return "Yes";
+
+    }
+
+    // Only change code above this line
+    return "No";
+}
+
+console.log("The return value is " + testLogicalAnd(10));
+
+// the logical or operator ||
+function testLogicalOr(val) {
+    // Only change code below this line
+
+    if (val < 10 || val > 20) {
+        return "Outside";
+    }
+
+    // Only change code above this line
+    return "Inside";
+}
+
+console.log("The return value of " + testLogicalOr(15));
+
+// the else statement
+function testElse(val) {
+    var result = "";
+    // Only change code below this line
+
+    if (val > 5) {
+        result = "Bigger than 5";
+    } else {
+        result = "5 or Smaller";
+    }
+
+    // Only change code above this line
+    return result;
+}
+
+console.log("The return value is " + testElse(4));
+
+// else if statements
+function testElseIf(val) {
+    if (val > 10) {
+        return "Greater than 10";
+    } else if (val < 5) {
+        return "Smaller than 5";
+    } else {
+        return "Between 5 and 10";
+    }
+
+}
+
+console.log("The return value is " + testElseIf(7));
+
+// managing logic with composite if else coditions
+function orderMyLogic(val) {
+    if (val >= 10) {
+        return "Greater than or equal to 10";
+    } else if (val < 10 && val >= 5) {
+        return "Less than 10";
+    } else if (val < 5) {
+        return "Less than 5";
+    }
+}
+
+console.log("The return value is " + orderMyLogic(7));
+
+// chained if else statement
+function testSize(num) {
+    // Only change code below this line
+    if (num < 5) {
+        return "Tiny";
+    } else if (num < 10) {
+        return "Small";
+    } else if (num < 15) {
+        return "Medium";
+    } else if (num < 20) {
+        return "Large";
+    } else {
+        return "Huge";
+    }
+
+    // Only change code above this line
+}
+
+console.log("the return value is " + testSize(7));
