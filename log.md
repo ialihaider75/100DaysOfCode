@@ -31,3 +31,8 @@
 <b>Today's Progress:</b> Practiced more excercises of 'Javascript basics' on freeCodeCamp.
 
 <b>Thoughts:</b> I have learned about the arrays, array operations, and basic queue implementation using arrays in javascript.
+
+## Day 7 (31 August,2020) 
+<b>Today's Progress:</b> Practiced more excercises of 'Javascript basics' on freeCodeCamp.
+
+<b>Thoughts:</b> I have learned about the comparison operators, logical operators and handling logic if else statements in javascript.
