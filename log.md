@@ -36,3 +36,8 @@
 <b>Today's Progress:</b> Practiced more excercises of 'Javascript basics' on freeCodeCamp.
 
 <b>Thoughts:</b> I have learned about the comparison operators, logical operators and handling logic if else statements in javascript.
+
+## Day 8 (01 September,2020) 
+<b>Today's Progress:</b> Created a simple to-do list using javascript DOM manipulation.
+
+<b>Thoughts:</b> I have learned about the DOM manipulation using javascript event handlers.
