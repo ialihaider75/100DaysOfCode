@@ -1,0 +1,22 @@
+.body {
+    background-color: lightgoldenrodyellow;
+}
+
+.task-bar {
+    padding: 20px;
+    text-align: center;
+}
+
+.task-input {
+    padding: 8px;
+    width: 50%;
+}
+
+.add-btn {
+    height: 35px;
+    background-color: lightskyblue;
+}
+
+.task-list {
+    text-align: center;
+}
