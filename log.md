@@ -41,3 +41,8 @@
 <b>Today's Progress:</b> Created a simple to-do list using javascript DOM manipulation.
 
 <b>Thoughts:</b> I have learned about the DOM manipulation using javascript event handlers.
+
+## Day 9 (02 September,2020) 
+<b>Today's Progress:</b> Started to build my portfolio site using javascript native components.
+
+<b>Thoughts:</b> I have learned about the javascript native components, its totally cool because it allows to build reusable HTML components which you can use again and again in your application.
