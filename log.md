@@ -46,3 +46,8 @@
 <b>Today's Progress:</b> Started to build my portfolio site using javascript native components.
 
 <b>Thoughts:</b> I have learned about the javascript native components, its totally cool because it allows to build reusable HTML components which you can use again and again in your application.
+
+## Day 10 (03 September,2020) 
+<b>Today's Progress:</b> Worked more on my portfolio site .
+
+<b>Thoughts:</b> 100 days of code challenge is amazing it really force me to code on daily basis. I think I could accomplish so much with this. :kissing_heart: :heart:
