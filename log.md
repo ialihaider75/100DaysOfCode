@@ -51,3 +51,8 @@
 <b>Today's Progress:</b> Worked more on my portfolio site .
 
 <b>Thoughts:</b> 100 days of code challenge is amazing it really force me to code on daily basis. I think I could accomplish so much with this. :kissing_heart: :heart:
+
+## Day 11,12 (04,05 September,2020) 
+<b>Today's Progress:</b> Learn content of a course "Deep learning and Nueral Networks" on coursers .
+
+<b>Thoughts:</b> I have learnt a lot more things about neural networks and building neural network using Numpy package of python and implementation of some new concepts i.e. broadcasting, vectorization etc.
