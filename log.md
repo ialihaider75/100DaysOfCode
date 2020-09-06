@@ -56,3 +56,8 @@
 <b>Today's Progress:</b> Learn content of a course "Deep learning and Nueral Networks" on coursers .
 
 <b>Thoughts:</b> I have learnt a lot more things about neural networks and building neural network using Numpy package of python and implementation of some new concepts i.e. broadcasting, vectorization etc.
+
+## Day 13 (06 September,2020) 
+<b>Today's Progress:</b> Solved first assignment of course "Deep learning and Nueral Networks" on coursers .
+
+<b>Thoughts:</b> I have implemented a neural network from scratch to classify images (i.e. cat or not cat) and concludes with a preety good accuracy 99% for training set and 70% for testing accuracy.
