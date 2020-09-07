@@ -61,3 +61,8 @@
 <b>Today's Progress:</b> Solved first assignment of course "Deep learning and Nueral Networks" on coursers .
 
 <b>Thoughts:</b> I have implemented a neural network from scratch to classify images (i.e. cat or not cat) and concludes with a preety good accuracy 99% for training set and 70% for testing accuracy.
+
+## Day 14 (07 September,2020) 
+<b>Today's Progress:</b> Worked on my portfolio site.
+
+<b>Thoughts:</b> Learnt about css grid and how to use it to make your site responsive.
