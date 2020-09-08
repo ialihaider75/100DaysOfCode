@@ -66,3 +66,8 @@
 <b>Today's Progress:</b> Worked on my portfolio site.
 
 <b>Thoughts:</b> Learnt about css grid and how to use it to make your site responsive.
+
+## Day 15 (08 September,2020) 
+<b>Today's Progress:</b> Worked on my portfolio site.
+
+<b>Thoughts:</b> Improve responsivness of site and add navigation to links
