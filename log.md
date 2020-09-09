@@ -71,3 +71,8 @@
 <b>Today's Progress:</b> Worked on my portfolio site.
 
 <b>Thoughts:</b> Improve responsivness of site and add navigation to links
+
+## Day 16 (09 September,2020) 
+<b>Today's Progress:</b> Worked on my portfolio site.
+
+<b>Thoughts:</b> Completed about me section of my portfolio site.
